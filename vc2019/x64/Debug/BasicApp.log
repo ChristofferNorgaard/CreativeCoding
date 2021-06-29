@@ -1,0 +1,17 @@
+﻿  BasicApp.cpp
+F:\documents\coding_projects\2021\naloge\Cinder3\Cinder\samples\Naloga\src\BasicApp.cpp(96,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\documents\coding_projects\2021\naloge\Cinder3\Cinder\samples\Naloga\src\BasicApp.cpp(316,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\documents\coding_projects\2021\naloge\Cinder3\Cinder\samples\Naloga\src\BasicApp.cpp(371,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\documents\coding_projects\2021\naloge\Cinder3\Cinder\samples\Naloga\src\BasicApp.cpp(373,45): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\documents\coding_projects\2021\naloge\Cinder3\Cinder\samples\Naloga\src\BasicApp.cpp(373,32): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\documents\coding_projects\2021\naloge\Cinder3\Cinder\samples\Naloga\src\BasicApp.cpp(422,111): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+F:\documents\coding_projects\2021\naloge\Cinder3\Cinder\samples\Naloga\src\BasicApp.cpp(442,9): warning C4101: 'col': unreferenced local variable
+  BasicApp.vcxproj -> F:\documents\coding_projects\2021\naloge\Cinder3\Cinder\samples\Naloga\vc2019\x64\Debug\BasicApp.exe
